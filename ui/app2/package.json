@@ -1,0 +1,8 @@
+{
+  "name": "@ui/app2",
+  "version": "1.0.0",
+  "scripts": {
+    "touch": "touch app2.txt",
+    "delete": "rm app2.txt"
+  }
+}

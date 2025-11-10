@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "scripts": {
+    "msg": "echo hello world",
+    "touch-app1": "pnpm -F @ui/app1 run touch",
+    "delete-app1": "pnpm -F @ui/app1 run delete",
+    "touch-all": "pnpm -r touch",
+    "delete-all": "pnpm -r delete"
+  }
+}
